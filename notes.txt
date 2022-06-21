@@ -1,1 +1,5 @@
-...
+git commit -m "mensagem"
+git add . 
+  -salvar os arquivos novos
+git status
+git push origin main
